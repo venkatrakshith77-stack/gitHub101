@@ -1,2 +1,4 @@
-# gitHub101
-sample guide for github 
+# 101github
+
+sample guide for github
+
